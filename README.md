@@ -6,9 +6,6 @@
 ## Overview
 Task Manager application that allows users to add, complete, and search tasks.
 
-## Task 1: Define the Problem
-The frontend is set up, but the application lacks interactivity and state management.
-
 As a user, you are able to:
 - Add a new task using a form
 - Mark tasks as completed 
